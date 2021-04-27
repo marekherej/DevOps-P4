@@ -1,4 +1,4 @@
-name: pull request labeler
+name: pull request labeller
 on: pull_request_review
 jobs:
   labelWhenApproved:
